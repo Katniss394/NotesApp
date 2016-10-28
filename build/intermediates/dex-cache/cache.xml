@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c48b4f8dca0d4789b12cbdce9b71728b627fcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_21092e304045c6a276271ae07738dab9de5c9ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_107e62f27d9546895574e7efc24b485c22035d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_32b215828bdd2746ce0c626aca7b71eb3a3b2856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_d7798d1f007671de67f8edde503ef19d3d18feb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_76112a6a088935fb7f7bd6712bd60f3f355130d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_09899938b52cb98d25a3b4b978ff8a409bd9fddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_45d10924064e7fa849552aeef6b921400f816992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_76112a6a088935fb7f7bd6712bd60f3f355130d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_436c8d3441de394cf56c0b23d0c9659d10f285e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eee8317bb3427e2a583c499e307a1559099bb75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bbac87b59470f9f437bebb2717297daad423bbc">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7304e80d88f01c4a9fa5da70f51e45d1b5a25fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_93eac82e8a9edafc4f771e4444de1928fd0fe989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e605059db1d228413d4859650e97db807d6c8beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_93bada8ab5b454dc38dc77feb879ff7893fc09fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_bfb9d57e0080931d0e77cd54effca71ffa694501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_788011ed2c1226fcb08d458a175524e21a05d9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c48b4f8dca0d4789b12cbdce9b71728b627fcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_107e62f27d9546895574e7efc24b485c22035d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9fae993c3caedf76d4396795baf78f4d15f44455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_32b215828bdd2746ce0c626aca7b71eb3a3b2856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_d7798d1f007671de67f8edde503ef19d3d18feb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49d29f102aa0576856f25f3aca9fd9073f395fc7">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\instant-run_02c9b016c950f14ab9f707345db6bc26e2ed6cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_45d10924064e7fa849552aeef6b921400f816992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_21092e304045c6a276271ae07738dab9de5c9ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_09899938b52cb98d25a3b4b978ff8a409bd9fddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e605059db1d228413d4859650e97db807d6c8beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_436c8d3441de394cf56c0b23d0c9659d10f285e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_93bada8ab5b454dc38dc77feb879ff7893fc09fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eee8317bb3427e2a583c499e307a1559099bb75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_93eac82e8a9edafc4f771e4444de1928fd0fe989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_788011ed2c1226fcb08d458a175524e21a05d9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9fae993c3caedf76d4396795baf78f4d15f44455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\notesApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_bfb9d57e0080931d0e77cd54effca71ffa694501.jar" />
+    </item>
+
+</items>
